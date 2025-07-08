@@ -34,11 +34,11 @@ Regression summary (linear & more)
 
 
 
-For the launch of this app you need to install requirements using 
+For the launch of this app you need to install requirements using  :- 
 
 pip install -r requirements.txt
 
-for using this app use 
+for using this app you need to use cmd command :-
 
 streamlit run app.py
 
