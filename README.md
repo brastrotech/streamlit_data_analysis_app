@@ -31,3 +31,7 @@ Correlation matrix
 Regression summary (linear & more)
 
 📤 Export Ready: Download your final plots and insights.
+
+
+
+For the launch of this app you need to install requirements 
