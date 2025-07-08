@@ -1,0 +1,7 @@
+streamlit>=1.31.0
+pandas>=2.2.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+scipy>=1.11.0
+scikit-learn>=1.4.0
+openpyxl>=3.1.2
